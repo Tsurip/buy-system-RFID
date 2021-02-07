@@ -1,4 +1,4 @@
-# Sistemas de Compras com RFID
+# Sistemas de Pagamento com RFID
 
 ## Planejamento
 
